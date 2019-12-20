@@ -12,6 +12,7 @@ The application loads and is ready to be used!
 
 ## Built With
 * [React](https://reactjs.org/) - JavaScript Framework
+* [Tahcyons](https://tachyons.io/) - CSS toolkit to create responsive sites quickly
 * [Robohash](https://robohash.org/) - Web service that provides images for any text
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
 
